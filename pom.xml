@@ -20,7 +20,7 @@
         <pmd.version>3.8</pmd.version>
         <checkstyle.version>2.17</checkstyle.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.home>C:\Program Files\Java\jre1.8.0_311\bin\javac.exe</java.home>
+        <java.home>C:\Program Files\Java\jdk1.8.0_202\bin\javac.exe</java.home>
     </properties>
 
     <modules>
